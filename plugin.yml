@@ -1,0 +1,9 @@
+name: FlexMaquinas
+main: dev.cromo29.machines.MachinePlugin
+version: 2.0.0
+author: Cromo29
+
+depend:
+  - DurkCore
+  - PlotSquared
+  - Multiverse-Core

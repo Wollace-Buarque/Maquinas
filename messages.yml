@@ -1,0 +1,36 @@
+Messages:
+  Prefix: "&8&l[&b29Maquinas&8&l]"
+
+  Target offline: "{prefix} &f{player} &cestá offline!"
+
+  Full inventory: "{prefix} &cO seu inventário está cheio!"
+  Target full inventory: "{prefix} &f{player} &cestá com o inventário cheio!"
+
+  Only owner: "{prefix} &cApenas o dono pode remover a máquina!"
+  Only with silk: "{prefix} &cVocê só pode quebrar uma máquina com &fToque Suave&c!"
+
+  Gived machine: "{prefix} &aVocê pegou &f{amount} &amáquina(s) de &f{name}&a!"
+  Unknown machine: "{prefix} &cA máquina &f{name} &cnão existe!"
+  Enabled machine: "{prefix} &aVocê ativou a máquina &f{machineName} &ade &f{owner}&a!"
+  Restocked machine: "{prefix} &aVocê reabasteceu a máquina &f{machineName} &ade &f{owner} {currentFuel}L&a/&f{maxFuel}&a!"
+  Restocked machines: "{prefix} &aVocê reabasteceu &f{amount} &amáquina(s)!"
+  No machines restocked: "{prefix} &cNenhuma máquina reabastecida!"
+  Gived machine to player: "{prefix} &aVocê deu &f{amount} &amáquina(s) de &f{name} &apara &f{player}&a!"
+
+  Gived fuel: "{prefix} &aVocê pegou &f{amount} &acombustíveis de &f{liters} &alitros!"
+  Gived fuel to player: "{prefix} &aVocê deu &f{amount} &acombustíveis de &f{liters} &alitros para &f{player}&a!"
+  Gived infinite fuel: "{prefix} &aVocê pegou &f{amount} &acombustíveis &finfinitos&a!"
+  Gived infinite fuel to player: "{prefix} &aVocê deu &f{amount} &acombustíveis &finfinitos &apara &f{player}&a!"
+
+  Fuel limit: "{prefix} &cA máquina já atingiu o limite de &f{limit} &clitros!"
+  Fuel amount: "{prefix} &cVocê só pode por um combustível de cada vez!"
+  Fuel expired: "{prefix} &cO combustível da máquina &f{name} &cacabou!"
+
+  Enought money: "{prefix} &cVocê não possui dinheiro suficiente!"
+  Purchased fuel: "{prefix} &aVocê comprou &f{amount} &acombustiveis por R$ &f{price}&a!"
+  Purchased machine: "{prefix} &aVocê comprou &f{amount} &amáquinas de &f{displayName} &apor R$ &f{price}&a!"
+
+  Break while enabled: "{prefix} &cVocê não pode quebrar a máquina enquanto ela estiver ligada!"
+
+  Machine status on: "{prefix} &aLitros da máquina: &f{currentFuel}L&a/&f{maxFuel}L &aRestam &f{timeLeft}&a!"
+  Machine status off: "{prefix} &aMáquina atualmente desativada!"

@@ -1,0 +1,32 @@
+Fuels:
+  '1':
+    DisplayName: ""
+    Price: 1000
+    Type: "INFINITE"
+    Lore:
+      - ""
+      - " &7Combustivel: &fInfinito - Ativável em qualquer lugar"
+      - " &7Preço: R$ &f{price}"
+      - ""
+  '2':
+    DisplayName: ""
+    Price: 1000
+    Type: "NORMAL"
+    Liters: 10
+    Lore:
+      - ""
+      - " &7Combustivel: &fNormal"
+      - " &7Litros: &f{liters}"
+      - " &7Preço: R$ &f{price}"
+      - ""
+  '3':
+    DisplayName: ""
+    Price: 1000
+    Type: "ANYWHERE"
+    Liters: 10
+    Lore:
+      - ""
+      - " &7Combustivel: &fAtivável em qualquer lugar"
+      - " &7Litros: &f{liters}"
+      - " &7Preço: R$ &f{price}"
+      - ""

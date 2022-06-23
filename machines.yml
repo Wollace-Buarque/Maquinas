@@ -1,0 +1,16 @@
+Machines:
+  Iron:
+    Block: "42" # Bloco
+    Cooldown: 3 # 3 segundos para dropar o item
+    Fuel limit: 60 # limite de combustivel na maquina
+    DisplayName: "&7Ferro"
+    Price: 50000
+    Lore:
+      - ""
+      - " &7Máquina de ferro"
+      - " &7Preço: {price}"
+      - ""
+      - "&f&lITEM RARO"
+    Drops: # ID:DATA;NOME;QUANTIDADE;LORE | PARA NÃO USAR ALGUM COLOCA NULL
+      - 322:1;"&cNOME DO ITEM";64;Primeira linha :: Segunda linha
+      - 322;null;1;null

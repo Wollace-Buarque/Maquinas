@@ -1,0 +1,33 @@
+MySQL:
+  Activate: false
+  User: "root"
+  Password: ""
+  Host: "localhost"
+  Port: 3306
+  Database: "maquinas"
+  Table: "maquinas"
+
+Transfer:
+  Activate: false
+  From table: "maquinas"
+  To table: "maquinas1"
+
+Settings:
+  Fuel decrease time: 60 # 60 segundos para diminuir 1 litro
+  Max distance: 16 # Distância máxima que o jogador pode ficar para a máquina dropar
+
+  AnyWhere: "&7- Ativável em qualquer lugar"
+  Liters: "{x} litros {anyWhere}" # Irá ficar no lugar do {fuel}
+  Infinite: "Infinito" # Irá ficar no lugar do {fuel}
+
+  Normal name: "&7Combustível"
+  AnyWhere name: "&7Combustível ativável em qualquer lugar"
+  Infinite name: "&7Combustível infinito"
+
+  Fuel:
+    Item: "263" # Item do combustivel
+    DisplayName: "&cCombustivel" # Use {fuelType} para trocar por nomes customizados
+    Lore:
+      - ""
+      - " &7Combustivel: {fuel}"
+      - ""
